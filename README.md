@@ -2,7 +2,9 @@
 
 This is Church of the Highlands's Ruby Style Guide.
 
-It was inspired by [AirBnB's guide] https://github.com/highlands/ruby that was inspired by [GitHub's guide](https://web.archive.org/web/20160410033955/https://github.com/styleguide/ruby) and [Rubocop guide][rubocop-guide].
+It was inspired by [AirBnB's guide] https://github.com/airbnb/ruby that was inspired by
+[GitHub's guide](https://web.archive.org/web/20160410033955/https://github.com/styleguide/ruby)
+and [Rubocop guide][rubocop-guide].
 
 ## Table of Contents
   1. [Whitespace](#whitespace)
